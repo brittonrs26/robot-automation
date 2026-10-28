@@ -1,0 +1,28 @@
+# --- Robot Framework Execution Artifacts ---
+output.xml
+log.html
+report.html
+pabot_results/
+browser/
+
+# --- Python & Environment Artifacts ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+ENV/
+env/
+
+# --- IDE & System Files ---
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+Thumbs.db
+ehthumbs.db
+Desktop.ini
